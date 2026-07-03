@@ -1,7 +1,7 @@
 [IF YOU WANT TO SEE A VISUAL CHART GO TO THE NOTEBOOK FOLDER -> CHARTS]
 
 
-# Quantitative Analysis: Hyperliquid Trader Performance vs. Market Sentiment
+# Quantitative Analysis:Trader Performance vs. Market Sentiment
 [A Production-Grade Web3 Behavioral Data Science Case Study]
 
 This repository contains a full-scale quantitative analysis exploring the statistical relationships between active trader execution performance (on Hyperliquid) and macroeconomic sentiment regimes (Bitcoin Fear & Greed Index). 
